@@ -42,10 +42,9 @@
 - Visual Studio Code  
 
 ---
-
-## 🔷 My Contributions 🔷  
+ 
 <p align="center">
-  <img src="https://github.com/username/username/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github.com/CptHilda0079/CptHilda0079/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
 
 ---
