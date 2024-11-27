@@ -15,7 +15,7 @@
         <li>
             🌐I design, configure and implement networks on the daily from VLANs to routing protocols to network security, you name it!🌐
         </li>
-        <li>📜I have a strong background in IT that had tough courses but provided a solid foundation and the whole experience was eye opening📜</li>
+        <li>📜I have a strong background in IT that had tough courses but provided a solid foundation, and the whole experience was eye-opening 📜</li>
         <li>My Experiences:
             <ul>
                 <li>🟢Configuring VLANs, routing protocols (OSPF, RIPv2), and dynamic IP allocation.🟢</li>
@@ -35,7 +35,7 @@
         </ul>
         </li>
         <li>🔵I also know a thing or two about Data Science🔵</li>
-        <li>☕️And also a thing or two about coding in Java and some front end web development🕸</li>
+        <li>☕️And also a thing or two about coding in Java and some front-end web development🕸</li>
         <li>Outside of tech, my pet hobbies are:
             <ul>
                 <li>⌛️Climbing/Bouldering⌛️</li>
