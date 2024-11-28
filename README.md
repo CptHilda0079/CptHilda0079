@@ -8,8 +8,8 @@ Hi there 👋 I'm Ben!
 
 **My Experiences:**
 - 🟢 Configuring VLANs, routing protocols (OSPF, RIPv2), and dynamic IP allocation. 🟢
-- 🟢 Setting up and troubleshooting small business and institutional network systems. 🟢
-- 🟢 Hands-on lab experience with technologies like EtherChannel, HSRP, and Packet Tracer. 🟢
+- 🟢 Penetration testing with CTF challenges 🟢
+- 🟢 Hands-on lab experience with technologies like Packet Tracer, Splunk and Wireshark 🟢
 
 Proficient in Cisco technologies and committed to optimizing network performance and availability.
 
@@ -18,18 +18,18 @@ Proficient in Cisco technologies and committed to optimizing network performance
 - 🔒 Cyber Security 🔒
 - 🐧 Linux 🐧
 - 🐍 Python Programming 🐍
-- 🐍 Penetration Testing 🐍
-- 🐍 CTF Challenges 🐍
+- 🛡️ Penetration Testing 🛡️
+- 🎮 CTF Challenges 🎮
 
-🔵 I also know a thing or two about Data Science 🔵
+🔵 I also know a thing or two about **Digital Forensics** 📊
 
-☕️ And also a thing or two about coding in Java and some front-end web development 🕸
+☕️ And also a thing or two about coding in **Assembly** ☕
 
 **Outside of tech, my pet hobbies are:**
-- ⌛️ Climbing/Bouldering ⌛️
-- 🗺 Chess 🗺
-- 📎 Gym/Running 📎
-- 📽 Reading 📽
+- 🧗‍♂️ Climbing/Bouldering 🧗‍♂️
+- ♟️ Chess ♟️
+- 🏋️‍♂️ Gym/Running 🏃‍♂️
+- 📚 Reading 📚
 
 ---
 
