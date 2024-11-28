@@ -3,10 +3,9 @@
 </h1>
     
 ![](https://komarev.com/ghpvc/?username=CptHilda0079&color=blue&style=plastic)
-![Header](https://github.com/CptHilda0079/CptHilda0079/blob/main/GithubHeaderImage.png)
+![Header](https://github.com/CptHilda0079/CptHilda0079/blob/main/github_header_image)
 
-<h3 align="center">👨🏻‍💻<ins>Cyber Security Student</ins>👨🏻‍💻</h3>
-    <img src="https://github.com/CptHilda0079/CptHilda0079/blob/main/ProfileBanner.png"/>
+    
 
 <br/>
 
