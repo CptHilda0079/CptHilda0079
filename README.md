@@ -84,7 +84,7 @@ Proficient in Cisco technologies and committed to optimizing network performance
 <div align="center">
   <h2>🔷 My Contributions 🔷</h2>
   <br>
-  <img src="https://github.com/ro-drick/ro-drick/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/CptHilda0079/CptHilda0079/blob/main/github-contribution-grid-snake-dark%20(2).svg" alt="snake animation" />
   <br/><br/><br/>
 </div>
 
@@ -101,10 +101,3 @@ Proficient in Cisco technologies and committed to optimizing network performance
   <img src="https://github-readme-stats.vercel.app/api?username=CptHilda0079&show_icons=true&theme=merko&locale=en" alt="ro-drick" width="400"/>
 </div>
 
-<hr/>
-
-<br/>
-<br/>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
