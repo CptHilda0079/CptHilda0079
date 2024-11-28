@@ -1,16 +1,9 @@
-<h1 align="center"><a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gill+Sans&size=30&duration=1&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%8C%B3BEN+HAWARDEN%F0%9F%8C%B3" alt="Typing SVG" /></a>
-</h1>
-    
-![](https://komarev.com/ghpvc/?username=CptHilda0079&color=blue&style=plastic)
-![Header](https://github.com/CptHilda0079/CptHilda0079/blob/main/github_header_image.png)
-
-    
+![Header](https://github.com/CptHilda0079/CptHilda0079/blob/main/GithubHeaderImage.png)
 
 <br/>
 
 <div>
-    <h2 align="center">✭ About me ✭ <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></h2>
+    <h2 align="center">✭ About me ✭</h2>
     <ul>
         <li>
             🌐I design, configure and implement networks on the daily from VLANs to routing protocols to network security, you name it!🌐
@@ -49,9 +42,6 @@
 
 <br/>
 
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
- 
 <div align="center"> 
   <a href="mailto:benhawarden@gmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
