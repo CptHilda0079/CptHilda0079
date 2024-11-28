@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=CptHilda0079&color=blue&style=plastic)
 
 <h3 align="center">👨🏻‍💻<ins>Cyber Security Student</ins>👨🏻‍💻</h3>
-    <img src="https://github.com/ro-drick/ro-drick/blob/main/hello-there.png"/>
+    <img src="https://github.com/CptHilda0079/CptHilda0079/blob/main/ProfileBanner.png"/>
 
 <br/>
 
