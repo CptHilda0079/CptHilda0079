@@ -3,7 +3,7 @@
 </h1>
     
 ![](https://komarev.com/ghpvc/?username=CptHilda0079&color=blue&style=plastic)
-![Header](https://github.com/CptHilda0079/CptHilda0079/blob/main/github_header_image)
+![Header](https://github.com/CptHilda0079/CptHilda0079/blob/main/github_header_image.png)
 
     
 
