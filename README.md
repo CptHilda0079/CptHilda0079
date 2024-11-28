@@ -85,7 +85,7 @@ Hi there 👋 I'm Ben!
 <div align="center">
   <h2>🔷 My Contributions 🔷</h2>
   <br>
-  <img src="https://github.com/CptHilda0079/CptHilda0079/blob/main/github-contribution-grid-snake-dark%20(2).svg" alt="snake animation" />
+  <img src="https://github.com/CptHilda0079/CptHilda0079/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
   <br/><br/><br/>
 </div>
 
