@@ -1,17 +1,15 @@
 ![Header](https://github.com/CptHilda0079/CptHilda0079/blob/main/GithubHeaderImage.png)
 
-# ✭ About me ✭
+<h2 align="center">✭ About me ✭</h2>
 
 Hi there 👋 I'm Ben!
 
-📜 I have a strong background in IT that had tough courses but provided a solid foundation, and the whole experience was eye-opening 📜
+📜 I am currently studying **Cyber Security** BSc at **Warwick University** 📜
 
 **My Experiences:**
 - 🟢 Configuring VLANs, routing protocols (OSPF, RIPv2), and dynamic IP allocation. 🟢
 - 🟢 Penetration testing with CTF challenges 🟢
 - 🟢 Hands-on lab experience with technologies like Packet Tracer, Splunk and Wireshark 🟢
-
-Proficient in Cisco technologies and committed to optimizing network performance and availability.
 
 **Interested in:**
 - ☁️ Cloud computing ☁️
@@ -33,7 +31,9 @@ Proficient in Cisco technologies and committed to optimizing network performance
 
 ---
 
-<!-- HTML section for buttons -->
+<!-- Platforms and Socials section -->
+
+<h2 align="center">🌐 Platforms and Socials 🌐</h2>
 
 <div align="center">
   <a href="mailto:benhawarden@gmail.com" style="margin-right: 10px;">
@@ -52,7 +52,7 @@ Proficient in Cisco technologies and committed to optimizing network performance
 
 <hr/>
 
-## 🔧 Technologies & Tools
+<h2 align="center">🔧 Technologies & Tools</h2>
 <br/>
 
 <!-- HTML section for badges -->
