@@ -1,46 +1,39 @@
 ![Header](https://github.com/CptHilda0079/CptHilda0079/blob/main/GithubHeaderImage.png)
 
-<br/>
+# ✭ About me ✭
 
-<div>
-    <h2 align="center">✭ About me ✭</h2>
-    <ul>
-        <li>
-            Hi there 👋 I'm Ben!
-        </li>
-        <li>📜I have a strong background in IT that had tough courses but provided a solid foundation, and the whole experience was eye-opening 📜</li>
-        <li>My Experiences:
-            <ul>
-                <li>🟢Configuring VLANs, routing protocols (OSPF, RIPv2), and dynamic IP allocation.🟢</li>
-                <li>🟢Setting up and troubleshooting small business and institutional network systems.🟢</li>
-                <li>🟢Hands-on lab experience with technologies like EtherChannel, HSRP, and Packet Tracer.🟢</li>
-            </ul>
-        </li>
-        <li>Proficient in Cisco technologies and committed to optimizing network performance and availability.</li>
-        <li>Interested in:
-        <ul>
-            <li>☁️Cloud computing☁️</li>
-            <li>🔒Cyber Security🔒</li>
-            <li>🐧Linux🐧</li>
-            <li>🐍Python Programming🐍</li>
-            <li>🐍Penetration Testing🐍</li>
-            <li>🐍CTF Challenges🐍</li>
-        </ul>
-        </li>
-        <li>🔵I also know a thing or two about Data Science🔵</li>
-        <li>☕️And also a thing or two about coding in Java and some front-end web development🕸</li>
-        <li>Outside of tech, my pet hobbies are:
-            <ul>
-                <li>⌛️Climbing/Bouldering⌛️</li>
-                <li>🗺Chess🗺</li>
-                <li>📎Gym/Running📎</li>
-                <li>📽Reading📽</li>
-            </ul>
-        </li>
-    </ul>
-</div>
+Hi there 👋 I'm Ben!
 
-<br/>
+📜 I have a strong background in IT that had tough courses but provided a solid foundation, and the whole experience was eye-opening 📜
+
+**My Experiences:**
+- 🟢 Configuring VLANs, routing protocols (OSPF, RIPv2), and dynamic IP allocation. 🟢
+- 🟢 Setting up and troubleshooting small business and institutional network systems. 🟢
+- 🟢 Hands-on lab experience with technologies like EtherChannel, HSRP, and Packet Tracer. 🟢
+
+Proficient in Cisco technologies and committed to optimizing network performance and availability.
+
+**Interested in:**
+- ☁️ Cloud computing ☁️
+- 🔒 Cyber Security 🔒
+- 🐧 Linux 🐧
+- 🐍 Python Programming 🐍
+- 🐍 Penetration Testing 🐍
+- 🐍 CTF Challenges 🐍
+
+🔵 I also know a thing or two about Data Science 🔵
+
+☕️ And also a thing or two about coding in Java and some front-end web development 🕸
+
+**Outside of tech, my pet hobbies are:**
+- ⌛️ Climbing/Bouldering ⌛️
+- 🗺 Chess 🗺
+- 📎 Gym/Running 📎
+- 📽 Reading 📽
+
+---
+
+<!-- HTML section for buttons -->
 
 <div align="center">
   <a href="mailto:benhawarden@gmail.com" style="margin-right: 10px;">
@@ -57,11 +50,12 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">🔧 Technologies & Tools</h2>
+<hr/>
+
+## 🔧 Technologies & Tools
 <br/>
 
+<!-- HTML section for badges -->
 <div>
     <img src= "https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
     <img src= "https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
@@ -82,15 +76,15 @@
     <img src= "https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
     <img src= "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     <img src= "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
-
 </div>
+
 <br/>
 <hr/>
 
 <div align="center">
   <h2>🔷 My Contributions 🔷</h2>
   <br>
-<img src="https://github.com/ro-drick/ro-drick/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/ro-drick/ro-drick/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
   <br/><br/><br/>
 </div>
 
