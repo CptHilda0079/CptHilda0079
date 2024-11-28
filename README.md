@@ -83,12 +83,6 @@
     <img src= "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     <img src= "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
 
-
-
-
-
-    
-    
 </div>
 <br/>
 <hr/>
