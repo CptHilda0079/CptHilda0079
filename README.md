@@ -6,7 +6,7 @@
     <h2 align="center">✭ About me ✭</h2>
     <ul>
         <li>
-            🌐I design, configure and implement networks on the daily from VLANs to routing protocols to network security, you name it!🌐
+            Hi there 👋 I'm Ben!
         </li>
         <li>📜I have a strong background in IT that had tough courses but provided a solid foundation, and the whole experience was eye-opening 📜</li>
         <li>My Experiences:
@@ -59,7 +59,7 @@
 
  <hr/>
  
-<h2 align="center">✪ Tools I Use ✪</h2>
+<h2 align="center">🔧 Technologies & Tools</h2>
 <br/>
 
 <div>
