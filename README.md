@@ -2,7 +2,7 @@
 
 <h2 align="center">✭ About me ✭</h2>
 
-Hi there 👋 I'm Ben!
+Hi there, I'm Ben!
 
 📜 I am currently studying **Cyber Security** BSc at **Warwick University** 📜
 
@@ -19,14 +19,10 @@ Hi there 👋 I'm Ben!
 - 🛡️ Penetration Testing 🛡️
 - 🎮 CTF Challenges 🎮
 
-🔵 I also know a thing or two about **Digital Forensics** 📊
-
-☕️ And also a thing or two about coding in **Assembly** ☕
-
-**Outside of tech, my pet hobbies are:**
+**Outside of tech, my hobbies are:**
 - 🧗‍♂️ Climbing/Bouldering 🧗‍♂️
 - ♟️ Chess ♟️
-- 🏋️‍♂️ Gym/Running 🏃‍♂️
+- 🏋️‍♂️ Gym 🏃‍♂️
 - 📚 Reading 📚
 
 ---
