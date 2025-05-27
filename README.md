@@ -7,23 +7,23 @@ Hi there, I'm Ben!
 📜 I am currently studying **Cyber Security** BSc at **Warwick University** 📜
 
 **My Experiences:**
-- 🟢 Configuring VLANs, routing protocols (OSPF, RIPv2), and dynamic IP allocation. 🟢
-- 🟢 Penetration testing with CTF challenges 🟢
-- 🟢 Hands-on lab experience with technologies like Packet Tracer, Splunk and Wireshark 🟢
+- Configuring VLANs, routing protocols (OSPF, RIPv2), and dynamic IP allocation. 
+- Penetration testing with CTF challenges 
+- Hands-on lab experience with technologies like Packet Tracer, Splunk and Wireshark 
 
 **Interested in:**
-- ☁️ Cloud computing ☁️
-- 🔒 Cyber Security 🔒
-- 🐧 Linux 🐧
-- 🐍 Python Programming 🐍
-- 🛡️ Penetration Testing 🛡️
-- 🎮 CTF Challenges 🎮
+- Cloud computing ☁️
+- Cyber Security 🔒
+- Linux 🐧
+- Python Programming 🐍
+- Penetration Testing 🛡️
+- CTF Challenges 🎮
 
 **Outside of tech, my hobbies are:**
-- 🧗‍♂️ Climbing/Bouldering 🧗‍♂️
-- ♟️ Chess ♟️
-- 🏋️‍♂️ Gym 🏃‍♂️
-- 📚 Reading 📚
+- Climbing/Bouldering 🧗‍♂️
+- Chess ♟️
+- Gym 🏃‍♂️
+- Reading 📚
 
 ---
 
