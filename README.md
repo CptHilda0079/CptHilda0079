@@ -11,20 +11,6 @@ Hi there, I'm Ben!
 - Penetration testing with CTF challenges 
 - Hands-on lab experience with technologies like Packet Tracer, Splunk and Wireshark 
 
-**Interested in:**
-- Cloud computing ☁️
-- Cyber Security 🔒
-- Linux 🐧
-- Python Programming 🐍
-- Penetration Testing 🛡️
-- CTF Challenges 🎮
-
-**Outside of tech, my hobbies are:**
-- Climbing/Bouldering 🧗‍♂️
-- Chess ♟️
-- Gym 🏃‍♂️
-- Reading 📚
-
 ---
 
 <!-- Platforms and Socials section -->
