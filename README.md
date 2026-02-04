@@ -2,7 +2,7 @@
 
 Hi there, I'm Ben!
 
-📜 I am currently studying **Cyber Security** BSc at **Warwick University** 📜
+I am currently studying **Cyber Security** BSc at **Warwick University** 
 
 **My Experiences:**
 - Configuring VLANs, routing protocols (OSPF, RIPv2), and dynamic IP allocation. 
@@ -10,10 +10,9 @@ Hi there, I'm Ben!
 - Hands-on lab experience with technologies like Packet Tracer, Splunk and Wireshark 
 
 ---
-
 <!-- Platforms and Socials section -->
 
-<h2 align="center">🌐 Platforms and Socials 🌐</h2>
+<h2 align="center">🌐 Platforms and Socials</h2>
 
 <div align="center">
   <a href="mailto:benhawarden@gmail.com" style="margin-right: 10px;">
