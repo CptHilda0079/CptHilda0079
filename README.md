@@ -54,23 +54,4 @@ Hi there, I'm Ben!
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🔷 My Contributions 🔷</h2>
-  <br>
-  <img src="https://github.com/CptHilda0079/CptHilda0079/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">🏆 Stats 🏆</h2>
-<br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=CptHilda0079&theme=merko" alt="GitHub Streak" width="400"/>
-  </a>
-  &nbsp; <!-- Adds space between the images -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CptHilda0079&show_icons=true&theme=merko&locale=en" alt="ro-drick" width="400"/>
-</div>
 
